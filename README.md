@@ -8,5 +8,10 @@
 #### 'Ecommercesite' is the main project where you can find the settings.py, we have to link our app 'store' in settings.py file.
 #### For run the project use command ' python manage.py runserver '
 
-> Here is the video  link  of this Ecommerce website that I uploaded in youtube - https://www.youtube.com/watch?v=iB3g9t6XsxQ&t=1s,
+> Here is the video  link  of this Ecommerce website that I uploaded in youtube - https://www.youtube.com/watch?v=iB3g9t6XsxQ&t=1s
+
+>For know more about Django follow their documentation - https://docs.djangoproject.com/en/3.0/
+
+
+
 
